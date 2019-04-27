@@ -82,4 +82,4 @@ while(progress <= bar.max){
 * BAR_GRAY
 
 ## Author
-Francesco Cannizzaro francisthemoderator@gmail.com
+Francesco Cannizzaro
